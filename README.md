@@ -23,7 +23,7 @@ The frontend of the application has been created using Streamlit. Streamlit is a
 ## Instructions for Running the Application Locally
 
 To run the application locally, follow these steps:
-
+<BR>
 1. Download the repository zip file.
 2. Extract all the files from the zip file.
 3. Run the Streamlit application by executing `streamlit run app.py` in your terminal.
